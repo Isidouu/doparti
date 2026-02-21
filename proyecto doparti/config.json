@@ -1,0 +1,11 @@
+{
+    "favorite_team": null,
+    "followed_teams": [],
+    "followed_leagues": [],
+    "notifications": {
+        "60_min": true,
+        "30_min": true,
+        "10_min": true,
+        "kickoff": true
+    }
+}

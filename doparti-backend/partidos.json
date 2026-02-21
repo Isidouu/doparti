@@ -1,0 +1,676 @@
+{
+  "_timestamp": 1771528261.7680852,
+  "partidos": {
+    "2026-02-19": [
+      {
+        "id": 553209,
+        "home": "Juventud de Las Piedras",
+        "away": "Club Guaraní",
+        "time": "22:00",
+        "competition": "Copa Libertadores"
+      },
+      {
+        "id": 554750,
+        "home": "CA Paranaense",
+        "away": "SC Corinthians Paulista",
+        "time": "22:30",
+        "competition": "Campeonato Brasileiro Série A"
+      }
+    ],
+    "2026-02-20": [
+      {
+        "id": 553210,
+        "home": "Deportivo Táchira FC",
+        "away": "CD Tolima",
+        "time": "00:30",
+        "competition": "Copa Libertadores"
+      },
+      {
+        "id": 537652,
+        "home": "Fortuna Sittard",
+        "away": "SBV Excelsior",
+        "time": "19:00",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 540612,
+        "home": "1. FSV Mainz 05",
+        "away": "Hamburger SV",
+        "time": "19:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 542612,
+        "home": "Stade Brestois 29",
+        "away": "Olympique de Marseille",
+        "time": "19:45",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 537073,
+        "home": "US Sassuolo Calcio",
+        "away": "Hellas Verona FC",
+        "time": "19:45",
+        "competition": "Serie A"
+      },
+      {
+        "id": 541096,
+        "home": "Blackburn Rovers FC",
+        "away": "Preston North End FC",
+        "time": "20:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 544452,
+        "home": "Athletic Club",
+        "away": "Elche CF",
+        "time": "20:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 545901,
+        "home": "CF Estrela da Amadora",
+        "away": "CD Tondela",
+        "time": "20:45",
+        "competition": "Primeira Liga"
+      }
+    ],
+    "2026-02-21": [
+      {
+        "id": 541106,
+        "home": "West Bromwich Albion FC",
+        "away": "Coventry City FC",
+        "time": "12:30",
+        "competition": "Championship"
+      },
+      {
+        "id": 541104,
+        "home": "Swansea City AFC",
+        "away": "Bristol City FC",
+        "time": "12:30",
+        "competition": "Championship"
+      },
+      {
+        "id": 541097,
+        "home": "Hull City AFC",
+        "away": "Queens Park Rangers FC",
+        "time": "12:30",
+        "competition": "Championship"
+      },
+      {
+        "id": 541103,
+        "home": "Stoke City FC",
+        "away": "Leicester City FC",
+        "time": "12:30",
+        "competition": "Championship"
+      },
+      {
+        "id": 544460,
+        "home": "Real Sociedad de Fútbol",
+        "away": "Real Oviedo",
+        "time": "13:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 537072,
+        "home": "Juventus FC",
+        "away": "Como 1907",
+        "time": "14:00",
+        "competition": "Serie A"
+      },
+      {
+        "id": 540605,
+        "home": "FC Bayern München",
+        "away": "Eintracht Frankfurt",
+        "time": "14:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 540611,
+        "home": "1. FC Köln",
+        "away": "TSG 1899 Hoffenheim",
+        "time": "14:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 540604,
+        "home": "1. FC Union Berlin",
+        "away": "Bayer 04 Leverkusen",
+        "time": "14:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 540610,
+        "home": "VfL Wolfsburg",
+        "away": "FC Augsburg",
+        "time": "14:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 541100,
+        "home": "Norwich City FC",
+        "away": "Birmingham City FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 538046,
+        "home": "Aston Villa FC",
+        "away": "Leeds United FC",
+        "time": "15:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 541102,
+        "home": "Southampton FC",
+        "away": "Charlton Athletic FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 538048,
+        "home": "Brentford FC",
+        "away": "Brighton & Hove Albion FC",
+        "time": "15:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 541098,
+        "home": "Middlesbrough FC",
+        "away": "Oxford United FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 541105,
+        "home": "Watford FC",
+        "away": "Derby County FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 541107,
+        "home": "Wrexham AFC",
+        "away": "Ipswich Town FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 538049,
+        "home": "Chelsea FC",
+        "away": "Burnley FC",
+        "time": "15:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 541099,
+        "home": "Millwall FC",
+        "away": "Portsmouth FC",
+        "time": "15:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 544455,
+        "home": "Real Betis Balompié",
+        "away": "Rayo Vallecano de Madrid",
+        "time": "15:15",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 545902,
+        "home": "FC Alverca",
+        "away": "CD Santa Clara",
+        "time": "15:30",
+        "competition": "Primeira Liga"
+      },
+      {
+        "id": 545903,
+        "home": "FC Arouca",
+        "away": "CD Nacional",
+        "time": "15:30",
+        "competition": "Primeira Liga"
+      },
+      {
+        "id": 542610,
+        "home": "Racing Club de Lens",
+        "away": "AS Monaco FC",
+        "time": "16:00",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 537074,
+        "home": "US Lecce",
+        "away": "FC Internazionale Milano",
+        "time": "17:00",
+        "competition": "Serie A"
+      },
+      {
+        "id": 538054,
+        "home": "West Ham United FC",
+        "away": "AFC Bournemouth",
+        "time": "17:30",
+        "competition": "Premier League"
+      },
+      {
+        "id": 544458,
+        "home": "CA Osasuna",
+        "away": "Real Madrid CF",
+        "time": "17:30",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 540606,
+        "home": "RB Leipzig",
+        "away": "Borussia Dortmund",
+        "time": "17:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 537655,
+        "home": "PSV",
+        "away": "SC Heerenveen",
+        "time": "17:45",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 545898,
+        "home": "Sport Lisboa e Benfica",
+        "away": "AVS",
+        "time": "18:00",
+        "competition": "Primeira Liga"
+      },
+      {
+        "id": 545905,
+        "home": "Moreirense FC",
+        "away": "Sporting Clube de Portugal",
+        "time": "18:00",
+        "competition": "Primeira Liga"
+      },
+      {
+        "id": 542606,
+        "home": "Toulouse FC",
+        "away": "Paris FC",
+        "time": "18:00",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 537654,
+        "home": "NAC Breda",
+        "away": "FC Volendam",
+        "time": "19:00",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 537069,
+        "home": "Cagliari Calcio",
+        "away": "SS Lazio",
+        "time": "19:45",
+        "competition": "Serie A"
+      },
+      {
+        "id": 537648,
+        "home": "AFC Ajax",
+        "away": "NEC",
+        "time": "20:00",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 538051,
+        "home": "Manchester City FC",
+        "away": "Newcastle United FC",
+        "time": "20:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 544453,
+        "home": "Club Atlético de Madrid",
+        "away": "RCD Espanyol de Barcelona",
+        "time": "20:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 542608,
+        "home": "Paris Saint-Germain FC",
+        "away": "FC Metz",
+        "time": "20:05",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 545906,
+        "home": "Sporting Clube de Braga",
+        "away": "Vitória SC",
+        "time": "20:30",
+        "competition": "Primeira Liga"
+      }
+    ],
+    "2026-02-22": [
+      {
+        "id": 537656,
+        "home": "FC Twente '65",
+        "away": "FC Groningen",
+        "time": "11:15",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 537070,
+        "home": "Genoa CFC",
+        "away": "Torino FC",
+        "time": "11:30",
+        "competition": "Serie A"
+      },
+      {
+        "id": 541101,
+        "home": "Sheffield United FC",
+        "away": "Sheffield Wednesday FC",
+        "time": "12:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 544457,
+        "home": "Getafe CF",
+        "away": "Sevilla FC",
+        "time": "13:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 537650,
+        "home": "FC Utrecht",
+        "away": "PEC Zwolle",
+        "time": "13:30",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 537653,
+        "home": "Go Ahead Eagles",
+        "away": "Heracles Almelo",
+        "time": "13:30",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 538052,
+        "home": "Nottingham Forest FC",
+        "away": "Liverpool FC",
+        "time": "14:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 537068,
+        "home": "Atalanta BC",
+        "away": "SSC Napoli",
+        "time": "14:00",
+        "competition": "Serie A"
+      },
+      {
+        "id": 538047,
+        "home": "Crystal Palace FC",
+        "away": "Wolverhampton Wanderers FC",
+        "time": "14:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 542604,
+        "home": "AJ Auxerre",
+        "away": "Stade Rennais FC 1901",
+        "time": "14:00",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 538045,
+        "home": "Sunderland AFC",
+        "away": "Fulham FC",
+        "time": "14:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 540609,
+        "home": "SC Freiburg",
+        "away": "Borussia Mönchengladbach",
+        "time": "14:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 544454,
+        "home": "FC Barcelona",
+        "away": "Levante UD",
+        "time": "15:15",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 537649,
+        "home": "AZ",
+        "away": "Sparta Rotterdam",
+        "time": "15:45",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 542607,
+        "home": "OGC Nice",
+        "away": "FC Lorient",
+        "time": "16:15",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 542605,
+        "home": "FC Nantes",
+        "away": "Le Havre AC",
+        "time": "16:15",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 542611,
+        "home": "Angers SCO",
+        "away": "Lille OSC",
+        "time": "16:15",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 540607,
+        "home": "FC St. Pauli 1910",
+        "away": "SV Werder Bremen",
+        "time": "16:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 538053,
+        "home": "Tottenham Hotspur FC",
+        "away": "Arsenal FC",
+        "time": "16:30",
+        "competition": "Premier League"
+      },
+      {
+        "id": 537066,
+        "home": "AC Milan",
+        "away": "Parma Calcio 1913",
+        "time": "17:00",
+        "competition": "Serie A"
+      },
+      {
+        "id": 544456,
+        "home": "RC Celta de Vigo",
+        "away": "RCD Mallorca",
+        "time": "17:30",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 545900,
+        "home": "GD Estoril Praia",
+        "away": "Gil Vicente FC",
+        "time": "18:00",
+        "competition": "Primeira Liga"
+      },
+      {
+        "id": 540608,
+        "home": "1. FC Heidenheim 1846",
+        "away": "VfB Stuttgart",
+        "time": "18:30",
+        "competition": "Bundesliga"
+      },
+      {
+        "id": 537651,
+        "home": "Feyenoord Rotterdam",
+        "away": "Telstar 1963",
+        "time": "19:00",
+        "competition": "Eredivisie"
+      },
+      {
+        "id": 542609,
+        "home": "RC Strasbourg Alsace",
+        "away": "Olympique Lyonnais",
+        "time": "19:45",
+        "competition": "Ligue 1"
+      },
+      {
+        "id": 537067,
+        "home": "AS Roma",
+        "away": "US Cremonese",
+        "time": "19:45",
+        "competition": "Serie A"
+      },
+      {
+        "id": 544459,
+        "home": "Villarreal CF",
+        "away": "Valencia CF",
+        "time": "20:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 545904,
+        "home": "FC Porto",
+        "away": "Rio Ave FC",
+        "time": "20:30",
+        "competition": "Primeira Liga"
+      }
+    ],
+    "2026-02-23": [
+      {
+        "id": 537065,
+        "home": "ACF Fiorentina",
+        "away": "AC Pisa 1909",
+        "time": "17:30",
+        "competition": "Serie A"
+      },
+      {
+        "id": 537071,
+        "home": "Bologna FC 1909",
+        "away": "Udinese Calcio",
+        "time": "19:45",
+        "competition": "Serie A"
+      },
+      {
+        "id": 538050,
+        "home": "Everton FC",
+        "away": "Manchester United FC",
+        "time": "20:00",
+        "competition": "Premier League"
+      },
+      {
+        "id": 544451,
+        "home": "Deportivo Alavés",
+        "away": "Girona FC",
+        "time": "20:00",
+        "competition": "Primera Division"
+      },
+      {
+        "id": 545899,
+        "home": "FC Famalicão",
+        "away": "Casa Pia AC",
+        "time": "20:15",
+        "competition": "Primeira Liga"
+      }
+    ],
+    "2026-02-24": [
+      {
+        "id": 552064,
+        "home": "Club Atlético de Madrid",
+        "away": "Club Brugge KV",
+        "time": "17:45",
+        "competition": "UEFA Champions League"
+      },
+      {
+        "id": 541113,
+        "home": "Watford FC",
+        "away": "Ipswich Town FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541108,
+        "home": "Hull City AFC",
+        "away": "Derby County FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541115,
+        "home": "Wrexham AFC",
+        "away": "Portsmouth FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541116,
+        "home": "Blackburn Rovers FC",
+        "away": "Bristol City FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541112,
+        "home": "Swansea City AFC",
+        "away": "Preston North End FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541114,
+        "home": "West Bromwich Albion FC",
+        "away": "Charlton Athletic FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 541109,
+        "home": "Middlesbrough FC",
+        "away": "Leicester City FC",
+        "time": "19:45",
+        "competition": "Championship"
+      },
+      {
+        "id": 552067,
+        "home": "FC Internazionale Milano",
+        "away": "FK Bodø/Glimt",
+        "time": "20:00",
+        "competition": "UEFA Champions League"
+      },
+      {
+        "id": 541110,
+        "home": "Southampton FC",
+        "away": "Queens Park Rangers FC",
+        "time": "20:00",
+        "competition": "Championship"
+      },
+      {
+        "id": 552062,
+        "home": "Newcastle United FC",
+        "away": "Qarabağ Ağdam FK",
+        "time": "20:00",
+        "competition": "UEFA Champions League"
+      },
+      {
+        "id": 552066,
+        "home": "Bayer 04 Leverkusen",
+        "away": "PAE Olympiakos SFP",
+        "time": "20:00",
+        "competition": "UEFA Champions League"
+      },
+      {
+        "id": 553222,
+        "home": "CD Huachipato",
+        "away": "Carabobo FC",
+        "time": "22:00",
+        "competition": "Copa Libertadores"
+      }
+    ],
+    "2026-02-25": []
+  }
+}
